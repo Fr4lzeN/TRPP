@@ -3,6 +3,8 @@ package ru.mirea.trpp_second_3.controllers;
 import io.micronaut.http.HttpResponse;
 import io.micronaut.http.annotation.Controller;
 import io.micronaut.http.annotation.Get;
+//скрин
+import ru.mirea.trpp_second_3.entity.HealthResponse;
 
 /** Проверка состояния сервера. */
 @Controller()
